@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: api
+Version: 0.1.0
+Summary: Api Python Flask
+Home-page: https://github.com/lucassimon/flask-api-users.git
+Author: Lucas Simon
+Author-email: lucassrod@gmail.com
+License: MIT
+Description: This is an API to Flask Api Users
+Keywords: API,MongoDB
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Software Development
+Classifier: Environment :: Web Environment
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: License :: OSI Approved :: MIT License
+Provides-Extra: testing

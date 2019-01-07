@@ -1,0 +1,4 @@
+[
+  "tests/home/test_home.py::test_index_response_200",
+  "tests/home/test_resource.py::test_home_response_hello"
+]
